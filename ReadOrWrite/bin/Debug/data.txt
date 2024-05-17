@@ -1,0 +1,11 @@
+Develop a VB program that does the following:
+• Write data to a textfile
+• Read data from the textfile
+dads
+
+Develop a VB program that does the following:
+• Write data to a textfile
+• Read data from the textfile
+dads
+
+

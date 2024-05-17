@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Projects\\ReadOrWrite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE8157-1A51-45F5-B5B4-CF409C0A175F}|ReadOrWrite\\ReadOrWrite.vbproj|D:\\Projects\\ReadOrWrite\\readorwrite\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{81AE8157-1A51-45F5-B5B4-CF409C0A175F}|ReadOrWrite\\ReadOrWrite.vbproj|solutionrelative:readorwrite\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE8157-1A51-45F5-B5B4-CF409C0A175F}|ReadOrWrite\\ReadOrWrite.vbproj|d:\\projects\\readorwrite\\readorwrite\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81AE8157-1A51-45F5-B5B4-CF409C0A175F}|ReadOrWrite\\ReadOrWrite.vbproj|solutionrelative:readorwrite\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{81AE8157-1A51-45F5-B5B4-CF409C0A175F}|ReadOrWrite\\ReadOrWrite.vbproj|D:\\Projects\\ReadOrWrite\\readorwrite\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{81AE8157-1A51-45F5-B5B4-CF409C0A175F}|ReadOrWrite\\ReadOrWrite.vbproj|solutionrelative:readorwrite\\form1.designer.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\Projects\\ReadOrWrite\\ReadOrWrite\\Form1.vb",
+              "RelativeDocumentMoniker": "ReadOrWrite\\Form1.vb",
+              "ToolTip": "D:\\Projects\\ReadOrWrite\\ReadOrWrite\\Form1.vb",
+              "RelativeToolTip": "ReadOrWrite\\Form1.vb",
+              "ViewState": "AQIAACcAAAAAAAAAAADwvygAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T14:10:48.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.vb",
+              "DocumentMoniker": "D:\\Projects\\ReadOrWrite\\ReadOrWrite\\Form1.Designer.vb",
+              "RelativeDocumentMoniker": "ReadOrWrite\\Form1.Designer.vb",
+              "ToolTip": "D:\\Projects\\ReadOrWrite\\ReadOrWrite\\Form1.Designer.vb",
+              "RelativeToolTip": "ReadOrWrite\\Form1.Designer.vb",
+              "ViewState": "AQIAABkAAAAAAAAAAAAgwCoAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T14:10:48.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\Projects\\ReadOrWrite\\ReadOrWrite\\Form1.vb",
+              "RelativeDocumentMoniker": "ReadOrWrite\\Form1.vb",
+              "ToolTip": "D:\\Projects\\ReadOrWrite\\ReadOrWrite\\Form1.vb [Design]",
+              "RelativeToolTip": "ReadOrWrite\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-05-17T14:10:48.621Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
